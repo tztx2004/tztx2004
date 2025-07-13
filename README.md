@@ -4,7 +4,8 @@
 
 
 ### Activity 📊
-1. phoneb(2023.08 ~2025.01)
+1. phoneb(2023.08 ~ 2025.01)
+2. AIgement(2025.03 ~ )
 
 <div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
