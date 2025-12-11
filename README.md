@@ -3,9 +3,18 @@
 </div>
 
 
-### Activity 📊
-1. phoneb(2023.08 ~ 2025.01)
-2. AIgement(2025.03 ~ )
+### Activity 📊  
+<strong>AIgement(2025.03 ~ ) | Frontend Engineer</strong>
+<ul>
+	<li>구매팀 원가절감 솔루션 'PLYN' 프론트엔드 개발</li>
+	<li>프론트엔드 리드</li>
+</ul>
+  
+<strong>phoneb(2023.08 ~ 2025.01) | Frontend Engineer</strong>
+<ul>
+	<li>알뜰폰 비교 서비스 '폰비' 프론트엔드 개발</li>
+	<li>폰비 어드민, 제휴사 프론트엔드 개발</li>
+</ul>
 
 <div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
