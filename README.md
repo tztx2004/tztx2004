@@ -16,6 +16,10 @@
 	<li>폰비 어드민, 제휴사 프론트엔드 개발</li>
 </ul>
 
+
+### Certificate 🪪
+1. 컴퓨터활용능력시험 1급(2020.03.06) 
+
 <div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
 <div align=center> 
