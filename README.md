@@ -4,7 +4,7 @@
 
 
 ### Activity 📊  
-<strong>AIgement(2025.03 ~ ) | Frontend Engineer</strong>
+<strong>AIgement(2025.03 ~ 2025.12) | Frontend Engineer</strong>
 <ul>
 	<li>구매팀 원가절감 솔루션 'PLYN' 프론트엔드 개발</li>
 	<li>프론트엔드 리드</li>
