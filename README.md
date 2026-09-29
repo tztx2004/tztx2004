@@ -4,6 +4,12 @@
 
 
 ### Activity 📊  
+<strong>N3N(2026.03 ~ 재직 중) | Frontend Engineer</strong>
+<ul>
+	<li>GPU cloud 솔루션 'JIKJI Labs' Object Storage 개발</li>
+	<li>실시간 관제 콘솔 Innowatch 웹 프로덕트 개발</li>
+</ul>
+
 <strong>AIgement(2025.03 ~ 2025.12) | Frontend Engineer</strong>
 <ul>
 	<li>구매팀 원가절감 솔루션 'PLYN' 프론트엔드 개발</li>
@@ -19,7 +25,8 @@
 
 ### Certificate 🪪
 1. 정보처리기사(2025.12.24)
-2. 컴퓨터활용능력시험 1급(2020.03.06) 
+2. SQLD(2026.09.11)
+3. 컴퓨터활용능력시험 1급(2020.03.06) 
 
 <div align=center><h1>📚 FRONTEND STACKS</h1></div>
 
