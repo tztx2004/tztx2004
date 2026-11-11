@@ -4,7 +4,7 @@
 
 
 ### Activity 📊  
-<strong>N3N(2026.03 ~ 재직 중) | Frontend Engineer</strong>
+<strong>N3N(2026.03 ~ 2026.10) | Frontend Engineer</strong>
 <ul>
 	<li>GPU cloud 솔루션 'JIKJI Labs' Object Storage 개발</li>
 	<li>실시간 관제 콘솔 Innowatch 웹 프로덕트 개발</li>
